@@ -1,0 +1,13 @@
+const String red_marker = 'assets/images/red_marker.png';
+const String green_marker = 'assets/images/green_marker.png';
+const String red_map_marker = 'assets/images/red_circle_map_marker.svg';
+const String green_map_marker = 'assets/images/green_circle_map_marker.svg';
+const String red_black_marker = 'assets/images/red_black_marker.svg';
+const String green_large_marker = 'assets/images/green_large_marker.svg';
+const String red_large_marker = 'assets/images/red_large_marker.svg';
+const String car_top = "assets/images/car_top.png";
+const String auto_top = "assets/images/auto_top.png";
+const String car_front = "assets/images/front_car.png";
+const String auto_front2 = "assets/images/front_auto.png";
+late String lightMapStyle;
+late String darkMapStyle;
